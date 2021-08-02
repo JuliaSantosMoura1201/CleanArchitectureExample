@@ -1,0 +1,3 @@
+rootProject.name = "CleanArchitectureExample"
+include ':app'
+include ':data'
