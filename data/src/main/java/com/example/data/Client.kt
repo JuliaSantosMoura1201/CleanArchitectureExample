@@ -26,5 +26,5 @@ object Client{
             .build()
             .create(T::class.java)
 
-    const val  BASE_URL = "https://ronreiter-meme-geneator.p.rapidapi.com/meme"
+    const val  BASE_URL = "https://ronreiter-meme-geneator.p.rapidapi.com"
 }
