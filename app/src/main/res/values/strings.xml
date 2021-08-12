@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CleanArchitectureExample</string>
+    <string name="editTextTextPersonName">Name</string>
+    <string name="editTextTextPersonEmail">Email</string>
+    <string name="editTextTextPersonId">Id</string>
+    <string name="button">Check In</string>
 </resources>
