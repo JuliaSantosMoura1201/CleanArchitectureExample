@@ -8,6 +8,5 @@ import com.example.domain.Either
 import com.example.domain.exceptions.CheckInException
 import com.example.domain.exceptions.NoNetworkingException
 import com.example.presentation.R
-import com.example.presentation.util.StringLoader
 import kotlinx.coroutines.launch
 
