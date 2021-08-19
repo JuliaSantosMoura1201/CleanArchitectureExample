@@ -30,6 +30,6 @@ class CheckInRepositoryImpl(
         }
 
     private companion object{
-        private const val CODE_SUCCESS = 201
+        private const val CODE_SUCCESS = 200
     }
 }
