@@ -26,5 +26,5 @@ object Client{
             .build()
             .create(T::class.java)
 
-    const val  BASE_URL = "http://4ea96a36acbc.ngrok.io/"
+    const val  BASE_URL = "http://d403b5805e55.ngrok.io/"
 }
